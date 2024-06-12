@@ -69,8 +69,6 @@ The analysis covers the following aspects:
 A comprehensive Power BI dashboard was created to visualize the analyzed data. The dashboard provides insights into various metrics, including the number of games released over the years, average game prices, and the most played games by current connected users (CCU). Below is a screenshot of the dashboard:
 
 ![image](https://github.com/kvlrdhrs/Steam-Games-Analytics/assets/139066488/a490249e-c3c8-4524-90ee-ec5cc17fbac6)
-![image](https://github.com/kvlrdhrs/Steam-Games-Analytics/assets/139066488/a490249e-c3c8-4524-90ee-ec5cc17fbac6)
-
 
 
 ## Results
