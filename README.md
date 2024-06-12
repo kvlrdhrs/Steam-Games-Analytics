@@ -5,6 +5,10 @@
 
 This project aims to analyze data from Steam games to derive meaningful insights and patterns. It involves various data analysis techniques, including data cleaning, exploratory data analysis (EDA), and visualization. The goal is to understand trends in game popularity, user ratings, and other key metrics.
 
+Additionally, the project incorporates machine learning (ML) and artificial intelligence (AI) techniques to enhance the analysis and provide deeper insights. Various ML models were trained to predict game performance metrics such as peak concurrent users (CCU), leveraging feature engineering and data preprocessing steps like target encoding and one-hot encoding.
+
+Moreover, an interactive dashboard was created using Power BI, allowing for dynamic exploration of the data. This dashboard provides a comprehensive view of game statistics, seasonal trends, and top-performing games, offering a user-friendly interface for stakeholders to derive actionable insights.
+
 ## Project Structure
 
 - **main.ipynb**: The Jupyter Notebook containing all the analysis and visualizations.
